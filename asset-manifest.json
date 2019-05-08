@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Pupster/static/css/main.bc2e7f1f.chunk.css",
+    "main.js": "/Pupster/static/js/main.c267f572.chunk.js",
+    "main.js.map": "/Pupster/static/js/main.c267f572.chunk.js.map",
+    "runtime~main.js": "/Pupster/static/js/runtime~main.0b30e048.js",
+    "runtime~main.js.map": "/Pupster/static/js/runtime~main.0b30e048.js.map",
+    "static/js/2.44e3117d.chunk.js": "/Pupster/static/js/2.44e3117d.chunk.js",
+    "static/js/2.44e3117d.chunk.js.map": "/Pupster/static/js/2.44e3117d.chunk.js.map",
+    "index.html": "/Pupster/index.html",
+    "precache-manifest.3f863d369cdec1dea07348b0c786c22c.js": "/Pupster/precache-manifest.3f863d369cdec1dea07348b0c786c22c.js",
+    "service-worker.js": "/Pupster/service-worker.js",
+    "static/css/main.bc2e7f1f.chunk.css.map": "/Pupster/static/css/main.bc2e7f1f.chunk.css.map"
+  }
+}
